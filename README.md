@@ -25,10 +25,10 @@ Requirements:
    - Editor accounts for two other agency employees
 
 8. Files to provide:
-    - URL of the WordPress site hosted online
-    - A PDF file explaining which WordPress theme was chosen and why
-    - A screenshot of accounts added to the WordPress site
-    - Wordpress PDF documentation of use to the agency
+   - URL of the WordPress site hosted online
+   - A PDF file explaining which WordPress theme was chosen and why
+   - A screenshot of accounts added to the WordPress site
+   - Wordpress PDF documentation of use to the agency
 
 #
 
