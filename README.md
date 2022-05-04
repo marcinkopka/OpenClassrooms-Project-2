@@ -32,10 +32,6 @@ Requirements:
 
 #
 
-### To see project online click the link below:
-
-### [http://chaletsandcaviar.mkopka.com](http://chaletsandcaviar.mkopka.com)
-
 ### To see and read WordPress PDF documentation click the link below:
 
 ### [Chalets And Caviar Website Documentation.pdf](https://github.com/marcinkopka/OpenClassrooms-Project-2/blob/master/Chalets%20And%20Caviar%20Website%20Documentation.pdf)
